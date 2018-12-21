@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\ggm\source\repos\project1\project1\source.cpp(35): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\ggm\source\repos\project1\project1\source.cpp(38): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\ggm\source\repos\project1\project1\source.cpp(45): warning C4305: аргумент: усечение из "double" в "GLclampf"
+c:\users\ggm\source\repos\project1\project1\source.cpp(65): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\ggm\source\repos\project1\project1\source.cpp(75): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\ggm\source\repos\project1\project1\source.cpp(88): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\ggm\source\repos\project1\project1\source.cpp(106): warning C4305: аргумент: усечение из "double" в "GLclampf"
+c:\users\ggm\source\repos\project1\project1\source.cpp(108): warning C4305: аргумент: усечение из "double" в "GLclampf"
+c:\users\ggm\source\repos\project1\project1\source.cpp(117): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\ggm\source\repos\project1\project1\source.cpp(118): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\ggm\source\repos\project1\project1\source.cpp(124): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\ggm\source\repos\project1\project1\source.cpp(125): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  Project1.vcxproj -> C:\Users\GGM\source\repos\Project1\Debug\Project1.exe
